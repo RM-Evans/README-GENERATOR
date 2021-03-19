@@ -1,0 +1,23 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "generates Readme files with user input",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RM-Evans/README-GENERATOR.git"
+  },
+  "author": "RM-Evans",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RM-Evans/README-GENERATOR/issues"
+  },
+  "homepage": "https://github.com/RM-Evans/README-GENERATOR#readme"
+}
