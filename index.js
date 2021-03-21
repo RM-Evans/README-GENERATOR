@@ -8,7 +8,7 @@ const questions = [
     {
         type: 'input',
         name: 'title',
-        message: 'What is the title of your project?',
+        message: 'What is the title of your project?'  
     },
     {
         type: 'input',
@@ -24,6 +24,7 @@ const questions = [
         type: 'input',
         name: 'usage',
         message: 'Enter usage info'
+        //TODO: make easier way to add images rather than manually
     },
     {
         type: 'input',

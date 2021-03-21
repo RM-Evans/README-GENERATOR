@@ -9,7 +9,7 @@ function renderLicenseBadge(license) {
   if(license === 'NONE'){
     return ''
   }
-  return `[![License: ${license}](https://img.shields.io/badge/License-${license}-blue.svg]`
+  return `[![License: ${license}](https://img.shields.io/badge/License-${license}-blue.svg)]`
 }
 
 
