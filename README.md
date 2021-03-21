@@ -1,50 +1,46 @@
-# 1
+# README GENERATOR
 
-  ## Badges
   [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-  
+
 
   ## Description
-  2
+  This program generates README's with Node.JS and /Inquirer. 
 
   ## Table of Contents
 
   * [Installation](#installation)
   * [Usage](#usage)
   * [Credits](#credits)
-  * [License](#license)
-  * [Contributing](#contributing)
-  * [Tests](#tests)
+  * [Technologies](#technologies)
   * [Questions](#questions) 
 
   ## Installation
+  
+  npm install inquirer
 
-  3
+  ## Usage 
+    Run node index.js, the application will use Inquirer to prompt you in the terminal with a series of questions about your project.
 
-  ## Usage
+    After answering all the prompts you a readme will be generated using the user's input.
 
-  4
+ ![demo of README-generator](./assets/images/readmedemo.gif)
 
   ## Credits
 
-  5
+  RM-Evans @ Github
 
-  ## License
-
-  MIT
-
-  ## Contributing
-
-  no
-
-  ## Tests
-
-  1
+  ## Technologies
+  
+  * JS
+  * Node.js
+  * Inquirer
 
   ## Questions
 
-  https://github.com/RM-Evans
+  If you have any questions please contact me at:
 
-  evansrichardmichael@gmail.com
+  * https://github.com/RM-Evans
+
+  * evansrichardmichael@gmail.com
   
   
