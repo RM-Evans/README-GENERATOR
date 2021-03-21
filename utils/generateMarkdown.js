@@ -92,7 +92,7 @@ function generateMarkdown(data) {
 
   ## Questions
 
-  ${data.githubUsername}
+  https://github.com/${data.githubUsername}
 
   ${data.emailAddress}
   
